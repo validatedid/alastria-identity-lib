@@ -1,8 +1,8 @@
 export const config = {
-    "alastriaIdentityManager": "0xbd4a2c84edb97be5beff7cd341bd63567e73f8c9",
-    "alastriaCredentialRegistry": "0x7bbca11cbd86b562136d5708eba40f4bc0aa1ddc",
-    "alastriaPresentationRegistry": "0x54d1dbfacada17ff39f2bac08e05fbdb4659f671",
-    "alastriaPublicKeyRegistry": "0x4958091227bbfbe1fdfc0fd79fc44844dc014ca0",
+    "alastriaIdentityManager": "0xeafCAf8c3f9016B14ec65105677658f3D6Eb9079",
+    "alastriaCredentialRegistry": "0x33CDa1389Ddc944A8082949Ff1c62c5F450d38d2",
+    "alastriaPresentationRegistry": "0x337268ddd7C6403375531f130740004cEEf2808e",
+    "alastriaPublicKeyRegistry": "0x1cd13Dc5161Bf2d5A83AAB4e7b66A6542D10Ab5B",
     "alastriaNameService": "0x34a7F888582D092cCA39d2Adb01CAdd65bF56902",
     "basicTransaction": {
         "to": "0x0000000000000000000000000000000000000000",
