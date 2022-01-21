@@ -87,7 +87,7 @@ function createAlastriaSession(
       '@context': requiredContext.concat(context),
       type: requiredTypes.concat(type),
       iss: iss,
-      iat: Math.round(Date.now() / 1000),
+      iat: Math.round(Date.now()),
       exp: exp,
       nbf: nbf,
       alastriaToken: alastriaToken,
